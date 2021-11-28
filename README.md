@@ -8,8 +8,9 @@ In this Readme your instructed to locate the disfuntioning in this website and l
 
 
 
-url:file:///C:/Users/k47ha/Desktop/UNC%20Codeing/urban-octo-telegram/Develop/index.html
+url:file:///C:/Users/k47ha/Desktop/UNC%20Codeing/challenge%201/urban-octo-telegram-main/Untitled-1.html
 
 Then you must also include the live url of the fixed applicants website. And a screenshot of your finished work including incudigng the GitHub url included. Also when url is pressed, the url must load without any problems or errors. Also get creative give your repository a diffrent but unique name for it.
 
-
+Sreenshot:
+![image](https://user-images.githubusercontent.com/93100015/143735031-b8630fb9-d5d7-45d9-bc7d-b740932aefec.png)
